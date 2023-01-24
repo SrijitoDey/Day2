@@ -1,0 +1,25 @@
+.li
+{
+    width: 100px;
+    list-style: none;
+    height: auto;
+    border: 2px solid black;
+    background-color: bisque;
+    margin: 5px;
+    text-align: center;
+    padding: 2px 5px;
+
+}
+
+.uli :nth-child(2)
+{
+    width: 100px;
+    list-style: none;
+    height: auto;
+    border: 2px solid blue;
+    background-color: lightblue;
+    margin: 5px;
+    color: white;
+    text-align: center;
+    padding: 2px 5px;
+} 

@@ -1,0 +1,24 @@
+div
+{
+    text-align:center;
+
+}
+
+img
+{
+    padding: 20px;
+    margin: 25px;
+    border-radius: 150px;
+    border: 1.5px solid;
+    width: 150px;
+    height: 150px;
+    border-color: aqua;
+    align-self: center;
+}
+
+img:hover
+{
+    opacity: 0.5;
+    border-color: aquamarine;
+    border: 3px solid;
+}
